@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RentalCar</string>
+    <string name="imgSmall">small image</string>
+    <string name="imgLarge">Large image</string>
+</resources>
